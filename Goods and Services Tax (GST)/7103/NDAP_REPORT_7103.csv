@@ -1,0 +1,37 @@
+ROWID,Country,State lgd code,State,YearCode,Year,Normal tax payers,Composition tax payers,Input service distributor,Casual tax payers,Tax collected at source,Tax deducted at source,Non resident taxpayers,Online information and database access or retrieval services from a place outside india to a non-taxable online recipient,Unique identification number (uin) holders
+1,India,1,Jammu And Kashmir,2022,"Financial Year (Apr - Mar), 2022",110462,8499,10,5,151,2593,0,0,10
+2,India,2,Himachal Pradesh,2022,"Financial Year (Apr - Mar), 2022",99587,17679,33,9,207,1614,0,0,25
+3,India,3,Punjab,2022,"Financial Year (Apr - Mar), 2022",344609,36606,83,27,446,3369,1,0,15
+4,India,4,Chandigarh,2022,"Financial Year (Apr - Mar), 2022",27759,1609,84,9,214,760,0,0,3
+5,India,5,Uttarakhand,2022,"Financial Year (Apr - Mar), 2022",157239,34265,47,6,352,3480,0,0,11
+6,India,6,Haryana,2022,"Financial Year (Apr - Mar), 2022",482254,15470,608,20,941,2547,4,0,31
+7,India,7,Delhi,2022,"Financial Year (Apr - Mar), 2022",758918,16325,1045,83,1381,2842,4,0,316
+8,India,8,Rajasthan,2022,"Financial Year (Apr - Mar), 2022",672438,134913,115,8,686,19619,1,0,86
+9,India,9,Uttar Pradesh,2022,"Financial Year (Apr - Mar), 2022",1377315,338879,444,26,1300,23645,1,0,234
+10,India,10,Bihar,2022,"Financial Year (Apr - Mar), 2022",484279,108500,107,8,374,7066,0,0,129
+11,India,11,Sikkim,2022,"Financial Year (Apr - Mar), 2022",9384,792,2,0,91,354,0,0,4
+12,India,12,Arunachal Pradesh,2022,"Financial Year (Apr - Mar), 2022",14641,2258,4,1,84,1360,0,0,5
+13,India,13,Nagaland,2022,"Financial Year (Apr - Mar), 2022",7740,2065,4,0,92,312,0,0,7
+14,India,14,Manipur,2022,"Financial Year (Apr - Mar), 2022",11629,1502,12,0,107,575,0,0,2
+15,India,15,Mizoram,2022,"Financial Year (Apr - Mar), 2022",7562,167,4,0,73,296,0,0,2
+16,India,16,Tripura,2022,"Financial Year (Apr - Mar), 2022",26898,2916,13,0,113,1150,0,0,5
+17,India,17,Meghalaya,2022,"Financial Year (Apr - Mar), 2022",28175,2246,7,4,102,539,0,0,5
+18,India,18,Assam,2022,"Financial Year (Apr - Mar), 2022",181474,36586,59,24,274,3331,0,0,33
+19,India,19,West Bengal,2022,"Financial Year (Apr - Mar), 2022",637786,58056,499,49,746,11486,1,0,188
+20,India,20,Jharkhand,2022,"Financial Year (Apr - Mar), 2022",170659,17589,36,4,287,3523,0,0,40
+21,India,21,Odisha,2022,"Financial Year (Apr - Mar), 2022",278441,28036,59,22,293,4000,0,0,44
+22,India,22,Chhattisgarh,2022,"Financial Year (Apr - Mar), 2022",133819,34105,26,66,258,3373,0,0,23
+23,India,23,Madhya Pradesh,2022,"Financial Year (Apr - Mar), 2022",421752,52846,123,22,557,15680,0,0,97
+24,India,24,Gujarat,2022,"Financial Year (Apr - Mar), 2022",1012153,96371,287,45,869,19118,1,0,67
+25,India,27,Maharashtra,2022,"Financial Year (Apr - Mar), 2022",1499972,122786,1807,50,1414,43751,9,0,286
+26,India,28,Andhra Pradesh,2022,"Financial Year (Apr - Mar), 2022",303295,110858,53,81,473,3167,0,0,292
+27,India,29,Karnataka,2022,"Financial Year (Apr - Mar), 2022",857399,111240,465,198,1336,17543,0,0,84
+28,India,30,Goa,2022,"Financial Year (Apr - Mar), 2022",38239,5161,77,17,208,734,0,0,13
+29,India,31,Lakshadweep,2022,"Financial Year (Apr - Mar), 2022",228,21,0,0,58,29,0,0,0
+30,India,32,Kerala,2022,"Financial Year (Apr - Mar), 2022",341278,51354,91,21,761,7361,2,0,35
+31,India,33,Tamil Nadu,2022,"Financial Year (Apr - Mar), 2022",1007706,71667,506,70,1134,12877,1,0,121
+32,India,34,Puducherry,2022,"Financial Year (Apr - Mar), 2022",20581,2467,8,1,159,363,0,0,3
+33,India,35,Andaman And Nicobar Islands,2022,"Financial Year (Apr - Mar), 2022",4243,810,4,0,72,322,0,0,0
+34,India,36,Telangana,2022,"Financial Year (Apr - Mar), 2022",423698,61061,349,162,667,21683,3,0,57
+35,India,37,Ladakh,2022,"Financial Year (Apr - Mar), 2022",6023,576,1,0,34,350,0,0,0
+36,India,38,The Dadra And Nagar Haveli And Daman And Diu,2022,"Financial Year (Apr - Mar), 2022",14743.00000000000000000000,625.00000000000000000000,4.00000000000000000000,2.00000000000000000000,147.00000000000000000000,259.00000000000000000000,0.00000000000000000000,0.00000000000000000000,1.00000000000000000000

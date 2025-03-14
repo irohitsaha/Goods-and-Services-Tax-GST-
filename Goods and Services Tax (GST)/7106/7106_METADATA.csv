@@ -1,0 +1,12 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+MonthCode,MonthCode,Key Identifier,"",0,"","","",MonthCode
+Month,Month,Key Identifier,"",0,"","","",Month
+Type of supply,D7106_4,Key Identifier,"",0,"","","",Types of supply of goods
+E-way suppliers,I7106_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,E-way suppliers
+E-way bills,I7106_6,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,E-way bills
+E-way asset value,I7106_7,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,E-way asset value in crore

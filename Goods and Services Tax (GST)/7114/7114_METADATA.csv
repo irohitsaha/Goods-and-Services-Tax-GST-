@@ -1,0 +1,12 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+YearCode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+MonthCode,MonthCode,Key Identifier,"",0,"","","",MonthCode
+Month,Month,Key Identifier,"",0,"","","",Month
+Central goods and services tax ( cgst ) revenue,I7114_4,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Central Goods and Services Tax Revenue in crore
+State goods and services tax ( sgst )revenue,I7114_5,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,State Goods and Services Tax Revenue in crore
+Integrated goods and services tax ( igst )revenue,I7114_6,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,Integrated Goods and Services Tax Revenue in crore
+Cess tax revenue,I7114_7,Numeric Variable,INR ( Indian Rupees ),10000000,sum,WeighingRatio_TotalPopulation,Total Population from Census,CESS Revenue (Rs In Crore): Cess is a form of tax charged/levied over and above the base tax liability of a taxpayer

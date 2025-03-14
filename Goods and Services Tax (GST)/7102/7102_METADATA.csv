@@ -1,0 +1,12 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+State lgd code,StateCode,Key Identifier,,0,,,,State LGD Code
+State,StateName,Key Identifier,,0,,,,State
+Gst ( goods and service tax ) return type,D7102_4,Key Identifier,"",0,"","","","Goods and service tax return types (GSTR) ie, GSTR-1 (monthly or quarterly) or GSTR-3(monthly)"
+YearCode,YearCode,Key Identifier,"",0,"","","",YearCode
+Year,Year,Key Identifier,"",0,"","","",Year
+MonthCode,MonthCode,Key Identifier,"",0,"","","",MonthCode
+Month,Month,Key Identifier,"",0,"","","",Month
+Payer eligible for gst ( goods and service tax ) registration,I7102_5,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,GST payer eligible for GST registration and lying within GST taxation slot types
+Gst ( goods and service tax ) payers registered before due date,I7102_6,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,GST payer registered before due date
+Gst ( goods and service tax ) payers registered after due date,I7102_7,Numeric Variable,Number,1,sum,WeighingRatio_TotalPopulation,Total Population from Census,GST payer registered after due date
